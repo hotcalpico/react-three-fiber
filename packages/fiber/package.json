@@ -60,7 +60,7 @@
     "expo": ">=43.0",
     "expo-asset": ">=8.4",
     "expo-file-system": ">=11.0",
-    "expo-gl": ">=11.0",
+    "expo-gl": "~15.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-native": ">=0.78",
